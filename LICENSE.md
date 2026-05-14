@@ -1,4 +1,4 @@
-# 
+# smart OBS Studio for macOS Template | noise-reduction + chromatic-aberration-fix is the best OBS Studio for macOS template, featuring noise-reduction and chromatic-aberration-fix.
 
 
 
